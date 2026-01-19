@@ -12,7 +12,7 @@ repositories {
 
 dependencies {
     implementation("org.slf4j:slf4j-api:2.0.17")
-    implementation("ch.qos.logback:logback-classic:1.5.24")
+    implementation("ch.qos.logback:logback-classic:1.5.25")
 
     testImplementation(platform("org.junit:junit-bom:6.0.2"))
     testImplementation("org.junit.jupiter:junit-jupiter")
